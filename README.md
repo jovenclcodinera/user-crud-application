@@ -7,8 +7,11 @@ A web application to manage users using CRUD functionality. This project is a sa
 This project is built using Java on Servlet and JSP. This application manages users by adding, editing, or deleting users.
 
 ## Images
-
+* User List Page
 ![user-list](https://raw.githubusercontent.com/jovenclcodinera/user-crud-application/master/user-management_user-list.PNG)
+
+* User Insert Page
+![user-new](https://github.com/jovenclcodinera/user-crud-application/blob/master/user-management_user-form-new.PNG?raw=true)
 
 ## Getting Started
 

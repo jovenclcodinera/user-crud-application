@@ -13,6 +13,9 @@ This project is built using Java on Servlet and JSP. This application manages us
 * User Insert Page
 ![user-new](https://github.com/jovenclcodinera/user-crud-application/blob/master/user-management_user-form-new.PNG?raw=true)
 
+* User Edit Page
+![user-new](https://github.com/jovenclcodinera/user-crud-application/blob/master/user-management_user-form-edit.PNG?raw=true)
+
 ## Getting Started
 
 ### Dependencies
@@ -21,13 +24,6 @@ This project is built using Java on Servlet and JSP. This application manages us
 * JSTL
 * MySQL Connector Driver
 * Servlet API
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
